@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "D:\\softwares\\anaconda3\\envs\\xuni\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "xuni",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}

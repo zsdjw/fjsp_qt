@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "D:\\\u6df1\u5ea6\u5b66\u4e60\\U-Net\\unet-master",
+  "password": false,
+  "pid": 9040,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "27410ef92c1ff8ae0b949883338cf9e57dffd6859c9ccb52",
+  "url": "http://localhost:8888/"
+}

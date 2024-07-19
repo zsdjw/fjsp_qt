@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "D:\\\u8bba\u6587\\\u4ee3\u7801\\CNN-LSTM_gold_price-main",
+  "password": false,
+  "pid": 9992,
+  "port": 8889,
+  "secure": false,
+  "sock": "",
+  "token": "b445e416793a7f6b212cfdf60f0fa92b3e7773f29e31fdf6",
+  "url": "http://localhost:8889/"
+}
